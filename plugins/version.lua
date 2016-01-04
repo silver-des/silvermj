@@ -1,21 +1,11 @@
 do
 
 function run(msg, matches)
-  return 'FLUXTER Team Robot v1.3'.. [[ 
-  Website:
-  http://FLUXTERTEAM.epage.IR
-  Channel: @FLUXTERteam
-  Creator: @ArashFluxter [sudo1]
-  Developer: @ArashFluxter
-  Founder:@shahabsaf [Sudo2]
-  Manager : @Parham_Fluxter [Sudo3]
-  Admins
-  @mustafaFLux
-  @Creed_is_Dead
-  Powered by:
-  ArashFluxter security. Group
-  http:// soon :D
-  Engineer Arash.m]]
+  return 'SilVeR Robot v1.3'.. [[ 
+    This is Old Bot OF Telegram.
+  This bot CreaTe By:
+  @MR_SILVER1[RePoRt
+  This BoT Is A BesT BoT]]
 end
 
 return {
