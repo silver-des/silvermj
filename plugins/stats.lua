@@ -147,7 +147,7 @@ local function run(msg, matches)
       end
     end
 
-    if matches[2] == "telesweet" then
+    if matches[2] == "silverbot" then
       if not is_sudo(msg) then
         return "Bot stats requires privileged user"
       else
