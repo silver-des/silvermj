@@ -394,7 +394,7 @@ do
       '^!(group) (settings)$',
       '^!(group) (unlock) (.*)$',
       '^!(link) (.*)$',
-      '^(makegroup) (.*)$',
+      '^!(makegroup) (.*)$',
       '%[(photo)%]',
       '^!(remgp)$',
       '^!(rules)$',
